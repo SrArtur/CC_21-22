@@ -8,7 +8,7 @@ Para incrementar la seguridad de nuestra cuenta de Github podemos (es bastante r
 
 Para ello es necesario ir al apartado _Settings_ y a continuación, _Two-Factor authentication_. Tenemos la opción de hacerlo a través de un gestor de contraseñas o por el número de teléfono. Una vez terminado este proceso, ya tendríamos nuestra cuenta más segura.
 
-![](/home/arturo/Imágenes/2FA.png)
+![](https://raw.githubusercontent.com/SrArtur/CC_21-22/master/doc/img/2FA.png)
 
 ## Edición del perfil
 
@@ -41,4 +41,4 @@ cat ~/.ssh/id_rsa.pub
 
 El resultado, será lo que debemos incluir en el apartado _Key_. Si hemos hecho correctamente este proceso, nos aparece en Github de la siguiente manera:
 
-![](/home/arturo/Imágenes/ssh.png)
+![](https://raw.githubusercontent.com/SrArtur/CC_21-22/master/doc/img/ssh.png)
