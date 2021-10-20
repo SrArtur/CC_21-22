@@ -16,6 +16,8 @@ Finalmente, resulta de interés el reentrenamiento de dicho algoritmo con los nu
 
 Podrás acceder al sistema desde distintos dispositivos, ya que toda la información  y gestión se guardará en la nube.
 
+# Documentación adicional
+
 Puedes consultar las fuentes acerca de los datos en los siguientes enlaces:
   - [Falsa Ofertas de empleo](https://www.osi.es/es/falsas-ofertas-empleo)
   - [Aumento de ofertas de empleo fraudulentas](https://www.portalparados.es/actualidad/la-guardia-civil-alerta-del-aumento-de-ofertas-de-empleo-fraudulentas/)
