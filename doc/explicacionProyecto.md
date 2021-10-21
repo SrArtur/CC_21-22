@@ -8,13 +8,13 @@ Recurrir a falsas oportunidades puede hacer que los estafadores puedan recopilar
 
 Hay recomendaciones para diferenciar entre ofertas reales o falsas como puede ser el uso de teléfonos de tarificación especial, opción de teletrabajo para puesto manuales, condiciones demasiado atractivas, mala redacción, etc.
 
-Como toda precaución es poca, para resolver este problema se propone una aplicación web en la que los usuarios puedan introducir una oferta y la aplicación predecir si dicha oferta es falsa según varios indicativos como los mencionados anteriormente. Para poder predecir se usarán los datos de [University of the Aegean](http://emscad.samos.aegean.gr/) y técnicas de _Machine Learning_.
+Como toda precaución es poca, para resolver este problema se propone una aplicación web en la que los usuarios puedan introducir una oferta y la aplicación predecir si dicha oferta es falsa según varios indicativos como los mencionados anteriormente. Para poder predecir se usarán los datos de [University of the Aegean](http://emscad.samos.aegean.gr/) y técnicas de _Machine Learning_, más concretamente aprendizaje supervisado. Este banco de datos contiene en torno a 19 mil ofertas de trabajo, de las cuales, en torno a 800 son falsas.
 
-Además se podrán reportar ofertas de empleo falsas y tras pasar una validación para comprobar la existencia de dicha oferta o esté registrada con alguna variación en los datos, se usará algoritmos de Agrupamiento o _Clustering_.
+Además se podrán reportar ofertas de empleo falsas para así ir mejorando el algoritmo.
 
 Finalmente, resulta de interés el reentrenamiento de dicho algoritmo con los nuevos datos de ofertas falsas que se vayan reportando para así ir detectando las tendencias de los estafadores. 
 
-Podrás acceder al sistema desde distintos dispositivos, ya que toda la información  y gestión se guardará en la nube.
+Podrás acceder al sistema desde distintos dispositivos, ya que toda la información  y gestión se guardará y hará en la nube.
 
 # Documentación adicional
 
