@@ -13,8 +13,6 @@ Repositorio que se usará a lo largo del curso de la asignatura Cloud Computing 
 
 
 Para la realización de este hito se ha consultado [Hito 1: Concretando y planificando el proyecto](http://jj.github.io/CC/documentos/proyecto/1.Infraestructura.html). Puedes consultar:
-
-
 - [Cloud Computing](#cloud-computing)
 - [:female_detective: ScamJob :male_detective:](#female_detective-scamjob-male_detective)
 - [Roles](#roles)
