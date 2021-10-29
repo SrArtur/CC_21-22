@@ -24,36 +24,28 @@ Para la realización de este hito se ha consultado [Hito 1: Concretando y planif
 Los roles que existirán en el sistema son los siguientes:
 
 - __Usuario__: Corresponde con los posibles usuarios que puedan acceder a la aplicación. Podrá consultar si la veracidad o falsedad de una oferta de empleo. Así como poder reportar ofertas que son falsas y consultar datos de ofertas falsas.
-- __Desarrollador__: Corresponde con la persona encargada del proceso de desarrollo de la aplicación 
 
 # Historias de usuario
 
 A partir de los roles presentados y para poder definir correctamente el proyecto detallaremos distintas historias de usuario mostrando las diferentes posibilidades que se plantean:
 
-- [HU1](https://github.com/SrArtur/CC_21-22/issues/5): Como usuario necesito poder consultar si una oferta de trabajo puede ser fraudulenta.
-- [HU2](https://github.com/SrArtur/CC_21-22/issues/6): Como usuario necesito reportar ofertas de trabajo falsas.
-- [HU3](https://github.com/SrArtur/CC_21-22/issues/7): Como usuario de la aplicación quiero observar las tendencias de los estafadores.
-- [HU4](https://github.com/SrArtur/CC_21-22/issues/8): Como desarrollador de la aplicación necesito poder almacenar ofertas de trabajo
-- [HU5](https://github.com/SrArtur/CC_21-22/issues/9): Como desarrollador necesito poder volver a entrenar el algoritmo con las nuevas ofertas falsas o verdaderas que se introduzcan.
+- [HU1](https://github.com/SrArtur/CC_21-22/issues/19): Como usuario en búsqueda de trabajo me gustaria poder consultar con cierta seguridad si una oferta de trabajo que solicito es fiable.
+- [HU2](https://github.com/SrArtur/CC_21-22/issues/20): Como usuario en paro me gustaría saber descartar las ofertas de trabajo que pueden no ser muy fiables sabiendo como suelen actuar los estafadores.
   
 Una vez presentadas las historias de usuarios, se crean los siguientes _issues_:
 
-- [Crear formulario para las consultas de ofertas potencialmente falsas.](https://github.com/SrArtur/CC_21-22/issues/10)
-- [Resolver flujo de almacenamiento de ofertas reportadas.](https://github.com/SrArtur/CC_21-22/issues/11)
-- [Crear formulario para introducir ofertas de trabajo.](https://github.com/SrArtur/CC_21-22/issues/12)
-- [Crear algoritmo de predicción de ofertas falsas.](https://github.com/SrArtur/CC_21-22/issues/13)
-- [Usar el modelo para predecir ofertas falsas.](https://github.com/SrArtur/CC_21-22/issues/14)
-- [Resolver flujo de entrenamiento del modelo.](https://github.com/SrArtur/CC_21-22/issues/15)
-- [Crear clase para el acceso del desarrollador al sistema.](https://github.com/SrArtur/CC_21-22/issues/17)
-- [Limpieza del conjunto de datos.](https://github.com/SrArtur/CC_21-22/issues/16)
+- [Crear formulario para las consultas de fiabilidad de ofertas](https://github.com/SrArtur/CC_21-22/issues/21)
+- [Validación los datos introducidos en el formulario](https://github.com/SrArtur/CC_21-22/issues/22)
+- [Creación o implementación de algoritmo capaz predecir si una ofertas es falsa.](https://github.com/SrArtur/CC_21-22/issues/23)
+- [Preprocesado del conjunto de datos.](https://github.com/SrArtur/CC_21-22/issues/24)
+- [Entrenamiento del algoritmo](https://github.com/SrArtur/CC_21-22/issues/25)
+- [Obtener los parámetros con mayor peso del algoritmo](https://github.com/SrArtur/CC_21-22/issues/26)
+
 
 # _Milestones_
 Para más información sobre los hitos, puedes acceder:
-- [Hito 1](https://github.com/SrArtur/CC_21-22/milestone/2): Algoritmo y datos.
-- [Hito 2](https://github.com/SrArtur/CC_21-22/milestone/3): Formalizar consultas
-- [Hito 3](https://github.com/SrArtur/CC_21-22/milestone/4): Predicción
-- [Hito 4](https://github.com/SrArtur/CC_21-22/milestone/5): Reporte de ofertas
-- [Hito 5](https://github.com/SrArtur/CC_21-22/milestone/6): Reentreanmiento 
+- [Hito 1](https://github.com/SrArtur/CC_21-22/milestone/2): Formalización y validación de consultas.
+- [Hito 2](https://github.com/SrArtur/CC_21-22/milestone/3): Predicción de fiabilidad de ofertas.
 
 
 
