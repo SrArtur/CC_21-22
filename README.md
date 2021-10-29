@@ -8,13 +8,12 @@ Repositorio que se usará a lo largo del curso de la asignatura Cloud Computing 
 
 ****
 
-# :male_detective:  ScamJob   :female_detective:
+#:female_detective:  ScamJob    :male_detective:
 
 
 
 Para la realización de este hito se ha consultado [Hito 1: Concretando y planificando el proyecto](http://jj.github.io/CC/documentos/proyecto/1.Infraestructura.html). Puedes consultar:
 - [Cloud Computing](#cloud-computing)
-- [:male_detective:  ScamJob   :female_detective:](#male_detective--scamjob---female_detective)
 - [Roles](#roles)
 - [Historias de usuario](#historias-de-usuario)
 - [_Milestones_](#milestones)
@@ -23,7 +22,7 @@ Para la realización de este hito se ha consultado [Hito 1: Concretando y planif
 
 Los roles que existirán en el sistema son los siguientes:
 
-- __Usuario__: Corresponde con los posibles usuarios que puedan acceder a la aplicación. Podrá consultar si la veracidad o falsedad de una oferta de empleo. Así como poder reportar ofertas que son falsas y consultar datos de ofertas falsas.
+- __Usuario__: Corresponde con los posibles usuarios que puedan acceder a la aplicación. Podrá consultar si la veracidad de una oferta de empleo. Así como poder consultar datos de ofertas falsas.
 
 # Historias de usuario
 
@@ -46,6 +45,7 @@ Una vez presentadas las historias de usuarios, se crean los siguientes _issues_:
 Para más información sobre los hitos, puedes acceder:
 - [Hito 1](https://github.com/SrArtur/CC_21-22/milestone/2): Formalización y validación de consultas.
 - [Hito 2](https://github.com/SrArtur/CC_21-22/milestone/3): Predicción de fiabilidad de ofertas.
+
 
 
 
