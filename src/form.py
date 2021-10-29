@@ -1,9 +1,9 @@
 class Form:
-'''
+    '''
     Esta clase contiene y especifica los atributos necesarios
     para la creacion de un formulario con los datos oportunos
     para la consulta de una oferta de trabajo. (WIP)
-'''
+    '''
     def __init__(self,name:str,title:str,location:str,
             department:str,salary_range:list(float),company_profile:str,
             description:str,requirements:str,benefits:str,telecommuting:bool,
