@@ -5,7 +5,7 @@ class Form:
     para la consulta de una oferta de trabajo. (WIP)
     '''
     def __init__(self,name:str,title:str,location:str,
-            department:str,salary_range:list(float),company_profile:str,
+            department:str,salary_range:float,company_profile:str,
             description:str,requirements:str,benefits:str,telecommuting:bool,
             logo:bool, questions:bool, employment_type:str, req_experience:str,
             req_education:str, industry:str, function:str):
@@ -27,3 +27,7 @@ class Form:
             self.req_education=req_education
             self.industry =industry
             self.function=function
+
+
+if __name__ == "__main__":
+    print("Hola Mundo")
